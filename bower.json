@@ -1,0 +1,18 @@
+{
+  "name": "hsiLongClickOrTouchModule",
+  "version": "1.0",
+  "homepage": "https://github.com/HSI-CH/hsiLongClickOrTouchModule",
+  "authors": [
+    "Christian Venzin <christian.venzin@hexagonsi.com>"
+  ],
+  "description": "This angular directive allows you to bind a click/touch and a long click/touch event with a customizable hold time to a DOM element. Works on Desktop and Mobile!",
+  "main": "src/hsiLongClickOrTouchModule.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
